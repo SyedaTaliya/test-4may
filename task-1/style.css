@@ -1,0 +1,56 @@
+.btn1{
+    background-color: #c63928;
+    padding: 15px 25px 15px 25px; 
+    font-size: 20px;
+    color: white;
+}
+
+.btn2{
+    background-color: #fcd835;
+    padding: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+    font-size: 15px;
+    border: 3px solid #2a61fb;
+    color: #2a61fb;
+    }
+
+.btnlogin{
+        background-image: linear-gradient(90DEG,#58d1df,#8fd499);
+        /* background-color: #58d1df; */
+        color:white;
+        padding: 15px 20px 15px 20px;
+        border-radius: 15px;
+        font-size: 20px; 
+        }
+
+    .btn5{
+    color: #6749ea;
+    border-radius:15px; 
+    border: 2px solid;
+    background-color:#ffffff;
+    font-size: 20px;
+    border-radius: 5px;
+        }
+
+    .btn6{
+        background-color:#f8b933; 
+        color:white;
+        border-radius:5px; 
+        padding: 15px 25px 15px 25px;
+        font-size: 20px;
+    }
+
+    .fab{
+        color: #37a1f3;
+        font-size: 35px;
+        padding-bottom: 10px;
+    }
+
+    .portion{
+    letter-spacing: 30px;
+    border: 2px solid white;
+    padding: 20px;
+    }
+    
+
