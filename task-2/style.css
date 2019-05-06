@@ -1,12 +1,28 @@
-h1{
-    text-align: center;
-    background-color: #eceff1;
-    font-family: Montserrat";
-    
+body {
+    background-color: #e2e4e5
 }
 
-.pics{
-    background-color:#e2e4e5;
+h1 {
+    background-color: #ebeff1;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    text-shadow: 1px 1px 4px red;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold; 
+}
+
+figcaption {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+figure {
     display: inline-block;
 }
 
+figure:hover{
+    background-color:#ebeff1;
+    color: red; 
+}
