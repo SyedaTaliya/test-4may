@@ -1,56 +1,102 @@
-.btn1{
+.btn1 {
     background-color: #c63928;
-    padding: 15px 25px 15px 25px; 
+    padding: 16px 38px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    border: transparent;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: #ec4d50;
+}
+
+.btn2 {
+    background-color: #fcd835;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    border: 3px solid #2a61fb;
+    color: #2a61fb;
+    font-family: 'Gugi', cursive;
+}
+
+.btn2:hover {
+    background-color: #2a61fb;
+    color: #fcd835;
+}
+
+.btnlogin {
+    background-image: linear-gradient(90DEG, #58d1df, #8fd499);
+    background-color: #58d1df;
+    color: white;
+    padding: 10px 36px;
+    border-radius: 26px;
     font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border: transparent;
+}
+
+.btn5 {
+    color: #6749ea;
+    border: 3px solid #6749ea;
+    background-color: #ffffff;
+    font-size: 20px;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 14px;
+    font-weight: bold;
+}
+
+.btn5:hover {
+    background-color: #6749ea;
     color: white;
 }
 
-.btn2{
-    background-color: #fcd835;
-    padding: 10px;
-    padding-left:20px;
-    padding-right: 20px;
-    font-size: 15px;
-    border: 3px solid #2a61fb;
-    color: #2a61fb;
-    }
-
-.btnlogin{
-        background-image: linear-gradient(90DEG,#58d1df,#8fd499);
-        /* background-color: #58d1df; */
-        color:white;
-        padding: 15px 20px 15px 20px;
-        border-radius: 15px;
-        font-size: 20px; 
-        }
-
-    .btn5{
-    color: #6749ea;
-    border-radius:15px; 
-    border: 2px solid;
-    background-color:#ffffff;
-    font-size: 20px;
+.btn6 {
+    background-image: linear-gradient(to top, #f5a322, #fac733);
+    background-color: #f5a322;
+    color: white;
+    border: 2px solid #f49f31;
     border-radius: 5px;
-        }
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
 
-    .btn6{
-        background-color:#f8b933; 
-        color:white;
-        border-radius:5px; 
-        padding: 15px 25px 15px 25px;
-        font-size: 20px;
-    }
+.btn6:hover {
+    background-color: #f5a322;
+    background-image: none;
+}
 
-    .fab{
-        color: #37a1f3;
-        font-size: 35px;
-        padding-bottom: 10px;
-    }
+/* .fab {
+    color: #37a1f3;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+.fab:hover{
+    color: white;
+} */
 
-    .portion{
+.btn7 {
+    color: #37a1f3;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid #37A1F3;
+    padding: 16px 22px;
+}
+
+.btn7:hover {
+    background-color: #37a1f3;
+    color: white;
+}
+
+.portion {
     letter-spacing: 30px;
     border: 2px solid white;
     padding: 20px;
-    }
-    
-
+}
